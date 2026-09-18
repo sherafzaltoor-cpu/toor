@@ -1,0 +1,6 @@
+{
+  "name": "TOOR NET PANEL",
+  "description": "TOOR NET PANEL - Remote Cloud Management Web Panel for MikroTik RB750Gr3 to manage Hotspot and PPPoE users from anywhere.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
